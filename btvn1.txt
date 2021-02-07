@@ -1,0 +1,18 @@
+1. Lệnh kiểm tra xem grade có thuộc khoảng từ 90 đến 100 hay không.
+2. 0.
+3. Do nhân 2 số int với nhau ra giá trị int trước khi chuyển thành giá trị long. 2^32 vượt ra ngoài khoảng giá trị của int.
+4. true.
+5. Ra nan.
+6.
+- invalid operands of types 'int' and 'const char [6]' to binary 'operator*'.
+- bị lỗi.
+7. Output:
+0
+0.75
+0.75
+0.75
+8. Chương trình bị lỗi do khai báo lại lệnh.
+9. Khối chỉ đến biến agr1 thứ 2.
+10. Khối chỉ đến biến agr1 thứ 1.
+11. Sai vì cho 5 / 9 vào trong ngoặc. Máy sẽ thực hiện (5 / 9) = 0 trước các lệnh khác.
+12. Here.
